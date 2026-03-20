@@ -1,0 +1,42 @@
+{
+    "white truffle": {
+        "stock": 4,
+        "unit": "kg",
+        "minimum_threshold": 3,
+        "cost_per_unit": 400,
+        "store": "Main Branch",
+        "expiry": "2026-03-21"
+    },
+    "saffron threads": {
+        "stock": 20,
+        "unit": "units",
+        "minimum_threshold": 20,
+        "cost_per_unit": 35,
+        "store": "Downtown",
+        "expiry": "2027-01-01"
+    },
+    "abcd": {
+        "stock": 3,
+        "unit": "kg",
+        "minimum_threshold": 10,
+        "cost_per_unit": 50,
+        "expiry": "2026-03-06",
+        "store": "Downtown"
+    },
+    "battery": {
+        "stock": 4,
+        "unit": "kg",
+        "minimum_threshold": 10,
+        "cost_per_unit": 50,
+        "expiry": "2026-03-14",
+        "store": "Downtown"
+    },
+    "__test_item": {
+        "stock": 3,
+        "unit": "units",
+        "minimum_threshold": 10,
+        "cost_per_unit": 0,
+        "expiry": null,
+        "store": "Main Branch"
+    }
+}
